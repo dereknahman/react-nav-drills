@@ -2,6 +2,8 @@
 
 I started this project because I was running into a lot of navigation issues at work and needed time to understand it on my own terms before trying to apply the principles to someone else's project.
 
+I am using [this tutorial](https://www.reactnativeschool.com/master-react-navigation-v5/).
+
 To run:
 
 - clone this repo
